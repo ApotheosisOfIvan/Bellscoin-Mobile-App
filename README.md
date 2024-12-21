@@ -67,4 +67,21 @@ The Bellscoin Mobile Wallet is more than just a wallet; it’s a gateway to a se
    ```bash
    git clone https://github.com/ApotheosisOfIvan/Bellscoin-Mobile-Wallet.git
    cd Bellscoin-Mobile-Wallet
+2. Install Dependencies
+   npm install
+3. Start Development Server
+   expo start
+4. Test the app on your mobile device or emulator using the Expo Go app.
 
+### 👥 Contributions
+Contributions are welcome! To get started:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Submit a pull request with detailed explanations of your changes.
+
+🛡️ License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+📫 Contact
+For questions or collaboration, reach out to ApotheosisOfIvan.
