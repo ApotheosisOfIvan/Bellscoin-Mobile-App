@@ -80,8 +80,8 @@ Contributions are welcome! To get started:
 2. Create a new branch for your feature or bug fix.
 3. Submit a pull request with detailed explanations of your changes.
 
-🛡️ License
+### 🛡️ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-📫 Contact
+### 📫 Contact
 For questions or collaboration, reach out to ApotheosisOfIvan.
